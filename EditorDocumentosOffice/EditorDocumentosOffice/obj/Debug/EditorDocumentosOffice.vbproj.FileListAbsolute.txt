@@ -1,0 +1,12 @@
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\bin\Debug\EditorDocumentosOffice.exe.config
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\bin\Debug\EditorDocumentosOffice.exe
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\bin\Debug\EditorDocumentosOffice.pdb
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\bin\Debug\EditorDocumentosOffice.xml
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.vbproj.AssemblyReference.cache
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.Form1.resources
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.Resources.resources
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.vbproj.GenerateResource.cache
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.vbproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.exe
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.xml
+C:\Users\mg520\source\repos\EditorDocumentosOffice\EditorDocumentosOffice\obj\Debug\EditorDocumentosOffice.pdb
