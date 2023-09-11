@@ -1,0 +1,12 @@
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\bin\Debug\Reporte de ventas.exe.config
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\bin\Debug\Reporte de ventas.exe
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\bin\Debug\Reporte de ventas.pdb
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\bin\Debug\Reporte de ventas.xml
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte de ventas.vbproj.AssemblyReference.cache
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte_de_ventas.Form1.resources
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte_de_ventas.Resources.resources
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte de ventas.vbproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte de ventas.vbproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte de ventas.exe
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte de ventas.xml
+C:\Users\mg520\source\repos\Reporte de ventas\Reporte de ventas\obj\Debug\Reporte de ventas.pdb
