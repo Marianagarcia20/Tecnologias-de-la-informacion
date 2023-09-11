@@ -1,0 +1,13 @@
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\bin\Debug\Reportes de ventas.exe.config
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\bin\Debug\Reportes de ventas.exe
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\bin\Debug\Reportes de ventas.pdb
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\bin\Debug\System.Data.SqlClient.dll
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\bin\Debug\System.Data.SqlClient.xml
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes de ventas.csproj.AssemblyReference.cache
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes_de_ventas.Form1.resources
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes_de_ventas.Properties.Resources.resources
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes de ventas.csproj.GenerateResource.cache
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes de ventas.csproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes de ventas.csproj.CopyComplete
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes de ventas.exe
+C:\Users\mg520\source\repos\Reportes de ventas\Reportes de ventas\obj\Debug\Reportes de ventas.pdb
